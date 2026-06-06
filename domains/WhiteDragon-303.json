@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "email": "chengshijifeng81@163.com",
+    "username": "WhiteDragon-303"
+  },
+  "record": {
+    "type": "CNAME",
+    "value": "edge-dragon-proxy-alpha.white-dragon.workers.dev"
+  }
+}
